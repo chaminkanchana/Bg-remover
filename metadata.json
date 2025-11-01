@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "An intelligent web application that uses the Gemini API to automatically remove the background from any image with a single click.",
+  "requestFramePermissions": []
+}
